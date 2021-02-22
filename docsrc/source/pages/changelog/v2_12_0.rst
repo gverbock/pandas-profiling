@@ -1,0 +1,30 @@
+Changelog v2.12.0
+-----------------
+
+🎉 Features
+^^^^^^^^^^^
+- Add the number and the percentage of negative values for numerical variables `[695] <https://github.com/pandas-profiling/pandas-profiling/issues/695>`- (contributed by @gverbock). 
+
+🐛 Bug fixes
+^^^^^^^^^^^^
+-
+
+👷‍♂️ Internal Improvements
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-
+
+📖 Documentation
+^^^^^^^^^^^^^^^^
+-
+
+⚠️  Deprecated
+^^^^^^^^^^^^^^^^^
+-
+
+🚨 Breaking changes
+^^^^^^^^^^^^^^^^^^^
+-
+
+⬆️ Dependencies
+^^^^^^^^^^^^^^^^^^
+-
